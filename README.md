@@ -1,6 +1,6 @@
 # EDA
 
-Task#1:
+## Task#1:
 As a promising digital design engineer, you are required to implement an N-bit integer (signed multiplier
 and divider. The multiplier/divider should have an input to choose whether it will multiply or divide. It
 will also have 2 inputs (a,b) each has N-bits and two outputs (m,r) N-bits as well. In case of
@@ -14,10 +14,10 @@ Additionally, the arithmetic unit should have three additional outputs, error bi
 Error bit indicates some error like division by zero, where busy bit indicates that the circuit is busy and
 can’t accept any input currently, finally, valid bit indicates that the result is ready.
 Use a clock and reset signals to initialize your design.
-Task#2:
+## Task#2:
 Repeat the design above but make the multiplier and division pure combinational circuits. Make sure not
 to generate any unnecessary latches or flipflops. (the way you do it by pen and paper)
-Task#3:
+## Task#3:
 • Create a testing plan for the above designs.
 • Mention the way you will use to generate stimulus.
 • Also mention your coverage criteria you will use.
