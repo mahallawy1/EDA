@@ -1,7 +1,7 @@
 # EDA
 
 ## Task#1:
-As a promising digital design engineer, you are required to implement an N-bit integer (signed multiplier
+ implementing an N-bit integer (signed multiplier
 and divider. The multiplier/divider should have an input to choose whether it will multiply or divide. It
 will also have 2 inputs (a,b) each has N-bits and two outputs (m,r) N-bits as well. In case of
 multiplication, the result of multiplication will be of size 2N where the most significant N-bits will be in
